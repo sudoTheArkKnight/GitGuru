@@ -1,4 +1,4 @@
-# Welcome to the GitHub Setup Repository
+# Welcome to the GitGuru
 
 Welcome to our GitHub Setup Repository! This repository is your one-stop destination for simplifying the process of setting up remote GitHub repositories across various scenarios. Whether you're a seasoned developer or just starting your coding journey, our repository is designed to streamline the setup process and save you time and effort.
 
