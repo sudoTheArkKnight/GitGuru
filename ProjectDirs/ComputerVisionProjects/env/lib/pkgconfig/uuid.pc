@@ -1,0 +1,11 @@
+prefix=/home/thearkknight/01PROJECTS/GitGuru/ProjectDirs/ComputerVisionProjects/env
+exec_prefix=/home/thearkknight/01PROJECTS/GitGuru/ProjectDirs/ComputerVisionProjects/env
+libdir=/home/thearkknight/01PROJECTS/GitGuru/ProjectDirs/ComputerVisionProjects/env/lib
+includedir=/home/thearkknight/01PROJECTS/GitGuru/ProjectDirs/ComputerVisionProjects/env/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid
